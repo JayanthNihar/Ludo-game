@@ -1,4 +1,4 @@
-var currPos = 0;
+var currPos = 10;
 var step = 49.5;
 var currcolor = "";
 var NumOfPaw = "";
